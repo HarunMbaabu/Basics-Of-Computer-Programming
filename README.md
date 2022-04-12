@@ -50,9 +50,21 @@ Developers should have essential knowledge on the following concepts to become s
 - **Algorithm:** It is a set of steps or instruction statements to be followed to accomplish specific tasks. A developer can design his algorithm to achieve the desired output. For Example, a recipe to cook a dessert. The algorithm describes the steps to be followed for completing a specific task, but it does not say how to achieve any of the steps.
 
 - **Source code:** Source code is the actual text that is used to construct the program using the language of choice.
-- 
+
 ```python
 # Define a function `plus()`
 def plus(a,b):
   return a + b
 ```  
+
+- **Compiler:** Compiler is a software program that helps in converting the source code into binary code or byte code, also called machine language, that is easy for a computer to understand, and can be further executed using an interpreter to run the program.
+
+- **Data Type:** Data used in the applications can be of a different type, it can be a whole number (integer), floating-point (decimal point numbers), characters or objects. For Example, double currency = 45.86, where double is a data type used for storing numbers with decimal points.
+
+- **Variable:** Variable is a space holder for the value stored in the memory and this value can be used in the application. For Example, int age = 25, where age is a variable.
+
+- **Conditionals:** Knowledge of how to use a certain condition, such that a set of code should execute only if a certain condition is true. In case of a false condition, the program should exit and should not continue the code further.
+
+- **Array:** Array is the variable that stores elements of a similar data type. Knowledge of using an array in coding/programming will be a great benefit.
+
+- **Loop:** Loop is used to execute the series of code until the condition is true. For Example, in Java, loops can be used as for loop, do-while, while loop or enhanced for loop.
