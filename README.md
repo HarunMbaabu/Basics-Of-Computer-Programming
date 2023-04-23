@@ -4,7 +4,7 @@
 **What Is Computer Programming?**
 ---
 
-- Computer Programming is a set of instructions, that helps the developer to perform certain tasks that return the desired output for the valid inputs.
+- Computer Programming is the process of creating a computer program that performs a certain computation, involving an input and output.
 
 **Given below is a Mathematical Expression.**
 
