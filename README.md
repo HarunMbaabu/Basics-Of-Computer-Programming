@@ -19,13 +19,11 @@ If **X = 550** and **Y = 450**, the value of X and Y are the input values that a
 
 --- 
 ### **How Do Computers Work?**
-- A computer is a machine that processes information and this information can be any data that is provided by the user through devices such as keyboards, mice, scanners, digital cameras, joysticks, and microphones.
-- 
-These devices are called **Input Devices** and the information provided is called **input**. 
+- A computer is a machine that processes information and this information can be any data that is provided by the user through devices such as keyboards, mice, scanners, digital cameras, joysticks, and microphones. These devices are called **Input Devices** and the information provided is called **input**. 
 
 **The computer requires storage to store this information and the storage is called Memory.**
 
-#### **Computer Storage or Memory is of Two Types.**
+#### **Computer Storage or Memory is of Two Types:**
 
 - Primary Memory or RAM (Random Access Memory): This is the internal storage that is used in the computers and is located on the motherboard. RAM can be accessed or modified quickly in any order or randomly. The information that is stored in RAM is lost when the computer is turned off.
 
@@ -36,7 +34,7 @@ These devices are called **Input Devices** and the information provided is calle
 
 - **Output Devices:** These are the computer hardware devices that help in converting information into human-readable form. Some of the output devices include Visual Display Units (VDU) such as a Monitor, Printer, Graphics Output devices, Plotters, Speakers, etc.
 
-A developer can analyze the problem and come up with simple steps to achieve a solution to this problem, for which he/she uses a programming algorithm. This can be compared to a recipe for a food item, where ingredients are inputs and finished delicacy is the output required by the client.
+A **developer** can analyze the problem and come up with simple steps to achieve a solution to this problem, for which he/she uses a programming algorithm. This can be compared to a recipe for a food item, where ingredients are inputs and finished delicacy is the output required by the client.
 
 ![image](https://user-images.githubusercontent.com/51136314/162971786-4d7b086d-2d95-4518-bff6-cfe4cecd124b.png)
 
@@ -46,7 +44,6 @@ In the development environment, the products, software, and solutions can be des
 
 
 Based on the client’s requirements, the solution required could be desktop, web or mobile-based.
-
 
 ### **Basic Programming Concepts.**
 Developers should have essential knowledge on the following concepts to become skilled in Computer Programming,
