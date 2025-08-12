@@ -6,7 +6,7 @@
 
 - Computer Programming is the process of creating a computer program that performs a certain computation, involving an input and output.
 
-**Given below is a Mathematical Expression.**
+**Given below is a Mathematical Expression:**
 
 ```python
 Z = X + Y
