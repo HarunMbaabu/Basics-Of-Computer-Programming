@@ -11,8 +11,9 @@
 ```python
 Z = X + Y
 ```
-where **X**, **Y**, and **Z** are the variables in a programming language. If **X = 550** and **Y = 450**, the value of X and Y are the input values that are called literals.
-We ask the computer to calculate the value of **X+Y**, which results in Z, i.e. the expected output. 
+- **X**, **Y**, and **Z** are the variables in a programming language. 
+
+If **X = 550** and **Y = 450**, the value of X and Y are the input values that are called literals. We ask the computer to calculate the value of **X+Y**, which results in Z, i.e. the expected output. 
 
 ![image](https://user-images.githubusercontent.com/51136314/162970999-66f9fb9e-6f5c-4dc6-9942-bd77a8c1330a.png)
 
